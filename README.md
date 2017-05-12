@@ -2,7 +2,7 @@
 
 EVER DREAMED ON CREATING A GAME FOR PS3 AND XBOX360 FOR FREE? NOW YOU CAN!!!
 
-<img src='https://www.betaarchive.com/imageupload/2017-01/1485529127.or.27442.png' width='80%' height='80%'>
+<img src='https://www.betaarchive.com/imageupload/2017-01/1485529127.or.27442.png' width='100%' height='100%'>
 
 DOWNLOAD LINK AND INSTRUCTIONS
 
