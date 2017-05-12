@@ -2,6 +2,8 @@
 
 EVER DREAMED ON CREATING A GAME FOR PS3 AND XBOX360 FOR FREE? NOW YOU CAN!!!
 
+<img src='https://www.betaarchive.com/imageupload/2017-01/1485529127.or.27442.png' width='80%' height='80%'>
+
 DOWNLOAD LINK AND INSTRUCTIONS
 
 The UDKUltimate engine folder has 12.9GB of size, it contains 32.462 files and 2.515 folders, it is a complete game development suite, however, is too big for me to upload that. I tried to compress it aswell, however I experienced a lot of problems when compressing and decompressing (too much lags and a lot of errors). In the end, if I would compress it, I could not compress the entire folder, I would need to compress some groups of folder, then whenever decompressing, the end user would need to re-create the engine folder structure (compress this folder, then move to that folder and so on...). Because this I decided that the best method for sharing UDK Ultimate is via bit torrent protocol. I hope people understand and help to spread this project by seeding it as much as you can. The more people that download and seed this project, the faster other people will download (this is how torrents work).
