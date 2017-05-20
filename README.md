@@ -8,7 +8,7 @@ https://sites.google.com/view/udkultimate/
 <img src="https://www.betaarchive.com/imageupload/2017-01/1485529127.or.27442.png">
 
 
-<b>GETTING STARTED<b>
+<b>GETTING STARTED</b>
 First and foremost, please install DirectX 9.0c:
 
 https://www.microsoft.com/en-us/download/details.aspx?id=34429
@@ -49,10 +49,10 @@ Cheers
 
 :)
 
-<b>UDKULTIMATE RELEASE TRAILER<b>
+<b>UDKULTIMATE RELEASE TRAILER</b>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v1GprSwppM8" frameborder="0" allowfullscreen></iframe>
 
-<b>UDKULTIMATE VIDEOS SHOWCASE<b>
+<b>UDKULTIMATE VIDEOS SHOWCASE</b>
 <iframe width="300" height="150" src="https://www.youtube.com/embed/XSML9zH8PzM" frameborder="0" allowfullscreen></iframe>
 <iframe width="300" height="150" src="https://www.youtube.com/embed/V3BqY_-v1QE" frameborder="0" allowfullscreen></iframe>
 <iframe width="300" height="150" src="https://www.youtube.com/embed/mgoyEBUDZJ0" frameborder="0" allowfullscreen></iframe>
@@ -60,30 +60,30 @@ Cheers
 <iframe width="300" height="150" src="https://www.youtube.com/embed/MIw7nnxJ234" frameborder="0" allowfullscreen></iframe>
 <iframe width="300" height="150" src="https://www.youtube.com/embed/EHkS6Lcto4g" frameborder="0" allowfullscreen></iframe>
 
-<b>1- WHAT IS UDK ULTIMATE?<b><br>
+<b>1- WHAT IS UDK ULTIMATE?</b><br>
 This is a modified version of EPIC`s UDK (Unreal Development Kit) Game Engine which supports exporting your game for XBOX360/PS3/PC WITHOUT the need to be a Registered Game Developer for Sony (Playstation) or Microsoft (XBOX360), something that a LOT of folks always dreamed with.
 
-<b>2- CAN I CREATE A GAME FOR XBOX360 AND PS3?<b><br>
+<b>2- CAN I CREATE A GAME FOR XBOX360 AND PS3?</b><br>
 On the first release, only exporting for Xbox360 was fully supported. You can create a game and play it on any RGH/JTAG Xbox360 console. As for PS3, thanks to EpicError and PixelButts, PS3 CFW is fully supported now (they fixed the issue with PS3 Exporting, and that`s the main reason for this new release), so the games created with UDK Ultimate now can be exported to PS3 and run on ANY CFW, no need for devkit.
 
-<b>3- DO I NEED A DEVKIT, OR PS3/XBOX360 SDK?<b><br>
+<b>3- DO I NEED A DEVKIT, OR PS3/XBOX360 SDK?</b><br>
 No, you don't need any console devkit. For Xbox360, you don't need nothing, not even the Xbox360 SDK!!! But for PS3, unfortunatelly, you need to have the PS3 SDK 3.0 Installed and Configured Correctly, even for just cooking the maps for PS3.
 
-<b>4- CAN I PLAY THESE GAMES ON ANY RETAIL CONSOLE?<b><br>
+<b>4- CAN I PLAY THESE GAMES ON ANY RETAIL CONSOLE?</b><br>
 No, the games created in UDK Ultimate only run on Hacked Consoles (because only these can run unsigned/unnoficial code). It runs on any XBOX360 JTAG/RGH (Slim and Slim E). You can even run the games from a USB Stick, by using a Xbox360 File Manager Utility (XEXMenu, FreeStyle Dash,...). As for PS3, it must be installed to the HD as a PKG game using a package manager utility.
 
-<b>5- DO I NEED TO KNOW C++ PROGRAMMING?<b><br>
+<b>5- DO I NEED TO KNOW C++ PROGRAMMING?</b><br>
 No, the exporting process for consoles is very easy, is ALMOST like "Menu > Export > XBOX360 / PS3". But you do need to learn how to use UDK/Unreal Engine 3 to be able to create a game using UDK Ultimate, you need to study unreal scripting, 3D Modelling, Animations, and so on. Youtube is your best friend.
 
-<b>6- WHAT ABOUT THE LEGALITY OF UDK ULTIMATE?<b><br>
+<b>6- WHAT ABOUT THE LEGALITY OF UDK ULTIMATE?</b><br>
 It falls under the category of Homebrew Development, which everyone knows is not Supported, nor Authorized by the Game/Softwares Companies. However, i am sure no Company will ever do something about this, untill this begins to cause them damage. And the most common type of damage is financial, which means, when you use their software illegally for making profit (money) with it. It means, NEVER SELL ANY GAME CREATED WITH UDK ULTIMATE WITHOUT EPIC/SONY/MICROSOFT LICENSE. There are a lot of people in the Homebrew Development Scene, which create and share their own games for PS3 and XBOX360, and I never heard about someone who suffered any legal consequences for creating and sharing a homebrew game (so long as it does not use any copyrighted material, like 3D models from comercial games, and the like).
 
-<b>7- WHO ARE YOU AND WHY YOU DID IT?<b><br>
+<b>7- WHO ARE YOU AND WHY YOU DID IT?</b><br>
 I am from Brazil, however, I can`t reveal my real identity, I use a lot of nicknames over the internet. But I am a normal guy, I love Gaming, I am a trully passionate Game Designer by hobby and Web Designer/Developer by Profession. And my love for Game Development, my extreme passion is what motivated me for doing this. I always had a dream to be able to create and play a game on consoles, from since Super Nintendo. Althought today PC is a very good platform for gaming, anyway, I think consoles still hold a special place on the hearts of many gamers, especially the older ones (like me :) ) who grew up playing game consoles in front of a TV screen.
 
 However, I was only able to do this with the help of a lot of folks who supported me from since the beginning of this project almost 2 years ago, which i will credit them below.
 
-<b>8- CREDITS:<b><br>
+<b>8- CREDITS:</b><br>
 I would like to thank all these guys below, because i was only able to complete this project with their valuable help and support.
 
 GOD for giving me a brain to think and learn things;
@@ -110,7 +110,7 @@ Snipe34 and 661gaz from Unreal Engine Forums for helping me with Unreal Scriptin
 
 Shindiggity and TKBS from Unreal Engine Forums for helping me with Unreal Scripting and implementing Hitmask Effect to simulate blood wound on enemies body;
 
-<b>9- UDK ULTIMATE 2017 CHANGELOG AND IMPROVEMENTS:<b><br>
+<b>9- UDK ULTIMATE 2017 CHANGELOG AND IMPROVEMENTS:</b><br>
 - Recompiled UDKGame Binaries both 32 and 64 Bits;
 
 - Improved Stability and Compatibility over last UDK Engine (Feb 2015 Build) thanks to recompiling of the binaries with EPIC_INTERNAL_FLAG (no random crashes);
@@ -163,7 +163,7 @@ Shindiggity and TKBS from Unreal Engine Forums for helping me with Unreal Script
 
 - New Docs folder with more complete instructions on how to install and use UDKUltimate;
 
-<b>10- COPYRIGHTS INFORMATION<b><br>
+<b>10- COPYRIGHTS INFORMATION</b><br>
 - Epic Games, Inc. All rights reserved. Epic, Epic Games, the Epic Games logo, Unreal, Unreal Engine, Unreal Development Kit, UDK, Unreal Tournament, and the Unreal Tournament 3 logo are trademarks or registered trademarks of Epic Games, Inc. in the United States of America and elsewhere;
 
 - SCE, Inc. All rights reserved. PlayStation, Playstation 3 and PS3 Logo are trademarks or registered trademarks of Sony Computer Entertainment Inc. in Japan and elsewhere;
