@@ -1,5 +1,36 @@
 # UDKUltimateEngine
 
+<img src="https://www.betaarchive.com/imageupload/2017-01/1485529127.or.27442.png"><br><br>
+
+<b>UDK ULTIMATE PS3 UPDATE V2 - PS3HEN SUPPORT!</b><br>
+Thanks to the efforts of PS3Xploit team (http://ps3xploit.com/), and many other PS3 Scene Devs, now anyone can enjoy homebrew games and apps on any PS3 through the installation of PS3HEN (which is stands for Homebrew Enabler). And to celebrate this, I updated UDK Ultimate PS3 Binaries to run on ANY PS3 (CFW and HFW with HEN)! So don't waste your time, grab now this update and have fun Creating, Playing and Sharing your Game on ANY Playstation 3 Console.<br><br>
+
+Here comes the link and mirrors for this new PS3 Update:<br>
+
+https://mega.nz/#!p8smSYwK!67lzZl6eCXbZOkcyIfru1BS1rtFaP95Kwx4hdz65ouo <br>
+
+https://mega.nz/#!eYlEhICI!67lzZl6eCXbZOkcyIfru1BS1rtFaP95Kwx4hdz65ouo <br>
+
+https://mega.nz/#!4tkwxAgb!67lzZl6eCXbZOkcyIfru1BS1rtFaP95Kwx4hdz65ouo <br>
+
+<br><br>
+
+Just extract this folder to the main UDKUltimate Engine folder (i.e C:\UDKUltimate) and overwrite everything there. This new and updated PS3 Game Template Folder has the new EBOOT.BIN already in place, so you just need to do the procedure to export your game for PS3 (the instructions are the same and are located in the Docs folder, file 2- Readme PS3 Export.txt).
+
+<br><br>
+
+As for those who want to recompile the PS3 Source Code in Visual Studio, nothing have changed, the only difference is that whenever using True Ancestor Resigner to resign the EBOOT.BIN, you just change output method to firmware 3.XX STD (instead of 4.XX STD), then follow the normal intructions.
+
+<br><br>
+
+Here follows a showcase of UDKUltimate Engine running on my PS3 SuperSlim 12GB 4.84 HFW with HEN 2 installed. Sorry for the bad quality of this video, it's because I can't capture footage from PS3, I don't have a HDMI capture card, only a shitty EasyCap :D :D :D. So I used my old Smartphone just to show to anyone that this is working, and is not fake news :D
+
+<br><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gJ5aJBvAr5A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br><br>
+
 <b>EVER DREAMED ON CREATING A GAME FOR PS3 AND XBOX360 FOR FREE? NOW YOU CAN!!!</b>
 
 https://sites.google.com/view/udkultimate/
