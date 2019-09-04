@@ -27,7 +27,7 @@ Here follows a showcase of UDKUltimate Engine running on my PS3 SuperSlim 12GB 4
 
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gJ5aJBvAr5A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=gJ5aJBvAr5A
 
 <br>
 
