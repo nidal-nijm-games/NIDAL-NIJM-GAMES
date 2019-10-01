@@ -2,6 +2,9 @@
 
 <img src="https://www.betaarchive.com/imageupload/2019-09/1567613006.or.28489.png"><br><br>
 
+<b>To make things easier for those who don't have a good internet connection, I uploaded the entire UDKUltimate Engine + PS3 Update to google drive, so now you can download and have fun:</b>
+https://drive.google.com/drive/folders/1jv6gk1ZnpMhJ5zhD0hisjQFMiHF1CSb8
+
 <b>UDK ULTIMATE PS3 UPDATE V2 - PS3HEN SUPPORT!</b><br>
 Thanks to the efforts of PS3Xploit team (http://ps3xploit.com/), and many other PS3 Scene Devs, now anyone can enjoy homebrew games and apps on any PS3 through the installation of PS3HEN (which is stands for Homebrew Enabler). And to celebrate this, I updated UDK Ultimate PS3 Binaries to run on ANY PS3 (CFW and HFW with HEN)! So don't waste your time, grab now this update and have fun Creating, Playing and Sharing your Game on ANY Playstation 3 Console.<br><br>
 
