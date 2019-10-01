@@ -1,6 +1,6 @@
 # UDKUltimateEngine
 
-<img src="https://www.betaarchive.com/imageupload/2019-09/1567613006.or.28489.png"><br><br>
+<img src="https://www.betaarchive.com/imageupload/2019-09/1567613006.or.28489.png"><br>
 
 <b>To make things easier for those who don't have a good internet connection, I uploaded the entire UDKUltimate Engine + PS3 Update to google drive, so now you can download and have fun:</b>
 https://drive.google.com/drive/folders/1jv6gk1ZnpMhJ5zhD0hisjQFMiHF1CSb8
